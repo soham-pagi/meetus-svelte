@@ -17,7 +17,7 @@
       subtitle: "Learn to code",
       description: "Learn to code",
       imageUrl:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/640px-London_Skyline_%28125508655%29.jpeg",
+        "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/t/n/TNC_PC2021_450b6776aee8195158c113bac7b342a0-original.jpg?crop=0%2C26%2C4000%2C2200&wid=4000&hei=2200&scl=1.0",
       address: "27th Nerd Road, 32523 New York",
       contactEmail: "code@test.com",
     },
