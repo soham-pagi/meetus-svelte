@@ -1,4 +1,5 @@
 <script>
+  export let id = undefined;
   export let title;
   export let subtitle;
   export let description;

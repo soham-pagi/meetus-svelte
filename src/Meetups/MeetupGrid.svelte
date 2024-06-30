@@ -5,14 +5,13 @@
 </script>
 
 <section id="meetups">
-  {#each meetups as meetup}
+  {#each meetups as meetup (meetup.id)}
     <MeetupItem {...meetup} />
   {/each}
 </section>
 
 <style>
   section {
-    margin-top: 5rem;
     width: 100%;
     display: grid;
     grid-template-columns: 1fr;
